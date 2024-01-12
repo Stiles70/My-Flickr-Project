@@ -157,13 +157,13 @@
     }
 
     #top-link{
-        margin-left: 150px;
+        /* margin-left: 150px; */
         border: 2px solid white;
         padding: 5px 10px;
     }
 
     #search-top{
-        transform: translateX(120px);
+        transform: translateX(90px);
         width: 50px;
     }
 
